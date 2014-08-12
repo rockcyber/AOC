@@ -1,4 +1,4 @@
-# Arquitetura e Organização de Computadores
+## Arquitetura e Organização de Computadores
 
 Repositorio destinado exclusivamente para materiais, trabalhos e projetos da disciplina.
 
