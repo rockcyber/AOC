@@ -1,5 +1,4 @@
 # Atividade AOC 03 
-# Eric Felipe Esteves - 39923238890
 # Felipe Souza - 35824854807 
 
 # Compute first twelve Fibonacci numbers and put in array, then print
